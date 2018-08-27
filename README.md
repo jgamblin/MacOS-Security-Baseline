@@ -22,8 +22,8 @@ Note: Script Will Prompt For Password If Not Root.
 **To Run:**
 
 ```
-chmod +x blackhat-macos-config.sh
-./blackhat-macos-config.sh
+chmod +x security-baseline.sh
+./security-baseline.sh
 ```
 
 
